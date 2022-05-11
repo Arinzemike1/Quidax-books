@@ -1,0 +1,23 @@
+.book-container {
+    display: flex;
+    padding: 20px 50px;
+    justify-content: space-between;
+}
+.search-bar {
+    background-color: #fff;
+}
+.search-bar button {
+    background-color: #f9f9f9;
+    border: none;
+    padding: 12px;
+}
+.search-bar input {
+    padding: 10px;
+    border: 1px solid #ddd;
+    width: 501px;
+    outline: none;
+}
+.subtitle {
+    font-size: 12px;
+    color: #aaa;
+}
